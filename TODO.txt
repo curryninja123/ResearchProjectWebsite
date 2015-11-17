@@ -1,0 +1,7 @@
+TODO
+-----
+- Add pictures to either side of Jumbotron
+- Add text to Jumbotron
+- create text fields
+- implement JQuery and timeline
+- add content
