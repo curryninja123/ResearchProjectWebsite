@@ -1,15 +1,18 @@
+/* For the top of each page */
 div.headingdiv {
-  color: #ddd;
-  font-family: "Times New Roman";
   text-align: center;
+  font-family: "Times New Roman";
+  color: #eee;
 }
 
+/* Ignore for now */
 .center {
     margin: auto;
     width: 0%;
     padding: 10px;
 }
 
+/* These are the main buttons, implemented with div */
 div.buttondiv {
   border-radius: 15px;
   width:230px;
@@ -17,6 +20,7 @@ div.buttondiv {
   padding: 10px;
 }
 
+/* This is the main text container */
 div.maincont {
   background-image: url('crumple.jpg');
   padding:25px;
@@ -24,6 +28,7 @@ div.maincont {
   opacity: 0.75;
 }
 
+/* This is for the text inside maincont */
 p.maintext {
   padding: 0.2cm;
   text-indent: 25px;
