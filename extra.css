@@ -18,6 +18,7 @@ div.buttondiv {
   width:230px;
   background-color: #1111df;
   padding: 10px;
+  opacity: 1.0;
 }
 
 /* This is the main text container */
