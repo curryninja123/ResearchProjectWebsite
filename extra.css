@@ -16,3 +16,16 @@ div.buttondiv {
   background-color: #1111df;
   padding: 10px;
 }
+
+div.maincont {
+  background-image: url('crumple.jpg');
+  padding:25px;
+  border-radius: 25px;
+}
+
+p.maintext {
+  padding: 0.2cm;
+  text-indent: 25px;
+  text-align: justify;
+  font-size: 16px;
+}
