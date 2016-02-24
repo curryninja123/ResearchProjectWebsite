@@ -3,3 +3,16 @@ div.headingdiv {
   font-family: "Times New Roman";
   text-align: center;
 }
+
+.center {
+    margin: auto;
+    width: 0%;
+    padding: 10px;
+}
+
+div.buttondiv {
+  border-radius: 15px;
+  width:230px;
+  background-color: #1111df;
+  padding: 10px;
+}
