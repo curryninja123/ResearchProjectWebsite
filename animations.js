@@ -18,10 +18,12 @@ $(document).ready(
         if(faded)
         {
           $("#expo").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Exposition.png'>";
         }
         else
         {
           $("#expo").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Exposition.png' align = 'center'>";
         }
       }
     );
@@ -39,10 +41,12 @@ $(document).ready(
         if(faded)
         {
           $("#conf").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Conflict.png' align = 'center'>";
         }
         else
         {
           $("#conf").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Conflict.png' align = 'center'>";
         }
       }
     );
@@ -60,10 +64,12 @@ $(document).ready(
         if(faded)
         {
           $("#riac").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Rising.png' align = 'center'>";
         }
         else
         {
           $("#riac").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Rising.png' align = 'center'>";
         }
       }
     );
@@ -81,10 +87,12 @@ $(document).ready(
         if(faded)
         {
           $("#clim").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Climax.png' align = 'center'>";
         }
         else
         {
           $("#clim").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Climax.png' align = 'center'>";
         }
       }
     );
@@ -102,10 +110,12 @@ $(document).ready(
         if(faded)
         {
           $("#faac").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Falling.png' align = 'center'>";
         }
         else
         {
           $("#faac").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Falling.png' align = 'center'>";
         }
       }
     );
@@ -123,10 +133,12 @@ $(document).ready(
         if(faded)
         {
           $("#deno").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Denouement.png' align = 'center'>";
         }
         else
         {
           $("#deno").slideDown();
+          document.getElementById("plotimage").innerHTML = "<img src = 'Denouement.png' align = 'center'>";
         }
       }
     );
