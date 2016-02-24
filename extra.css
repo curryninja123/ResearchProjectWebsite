@@ -53,3 +53,9 @@ div.buttondiv2 {
   padding:2px;
   text-align: center;
 }
+
+div.plotpanel {
+  text-align: justify;
+  padding: 2px;
+  display: none;
+}
