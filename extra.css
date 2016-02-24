@@ -19,6 +19,7 @@ div.buttondiv {
   background-color: #1111df;
   padding: 10px;
   opacity: 1.0;
+  text-align: center;
 }
 
 /* This is the main text container */
