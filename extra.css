@@ -21,11 +21,13 @@ div.maincont {
   background-image: url('crumple.jpg');
   padding:25px;
   border-radius: 25px;
+  opacity: 0.75;
 }
 
 p.maintext {
   padding: 0.2cm;
   text-indent: 25px;
   text-align: justify;
-  font-size: 16px;
+  font-size: 19px;
+  font-family: "Times New Roman";
 }
